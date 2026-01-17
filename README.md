@@ -1,16 +1,14 @@
-## Hi there 👋
+# Daniel Sehuanes | Cybersecurity Student
 
-<!--
-**danielsehuanes07/danielsehuanes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudiante de **Ciberseguridad** enfocado en **Pentesting** y laboratorios prácticos.
 
-Here are some ideas to get you started:
+##  En qué estoy trabajando
+- Writeups de **Hack The Box**, **TryHackMe** y **DockerLabs**
+- Mejorando enumeración web y escalación de privilegios en Linux
+- Creando scripts simples para automatizar tareas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Portafolio
+🔗 [Cybersecurity Portfolio](https://github.com/danielsehuanes07/cybersecurity-portfolio)
+
+##  Contacto
+- Email: danielruiz1014@hotmail.com
