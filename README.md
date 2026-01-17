@@ -1,14 +1,14 @@
 # Daniel Sehuanes | Cybersecurity Student
 
-🎯 Estudiante de **Ciberseguridad** enfocado en **Pentesting** y laboratorios prácticos.
-
-##  En qué estoy trabajando
-- Writeups de **Hack The Box**, **TryHackMe** y **DockerLabs**
-- Mejorando enumeración web y escalación de privilegios en Linux
-- Creando scripts simples para automatizar tareas
+En construcción de portafolio práctico enfocado en **Pentesting** y laboratorios (HTB / THM / DockerLabs).
 
 ##  Portafolio
-🔗 [Cybersecurity Portfolio](https://github.com/danielsehuanes07/cybersecurity-portfolio)
+- 🔗 [Cybersecurity Portfolio](https://github.com/danielsehuanes07/cybersecurity-portfolio)
+
+##  En qué estoy trabajando
+- Resolución y documentación de máquinas (writeups)
+- Enumeración web y escalación de privilegios en Linux
+- Scripts simples para automatizar tareas repetitivas
 
 ##  Contacto
 - Email: danielruiz1014@hotmail.com
