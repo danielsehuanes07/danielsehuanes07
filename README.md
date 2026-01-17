@@ -2,17 +2,22 @@
 
 En construcción de portafolio práctico enfocado en **Pentesting** y laboratorios (HTB / THM / DockerLabs).
 
-##  Portafolio
-- 🔗[Cybersecurity Portfolio](https://github.com/danielsehuanes07/cybersecurity-portfolio)
+## Portafolio
+- 🔗 [Cybersecurity Portfolio](https://github.com/danielsehuanes07/cybersecurity-portfolio)
 
+##  Herramientas
+- Linux, Bash
+- Nmap, Gobuster, Burp Suite
+- GitHub
 
 ##  En qué estoy trabajando
 - Resolución y documentación de máquinas (writeups)
 - Enumeración web y escalación de privilegios en Linux
 - Scripts simples para automatizar tareas repetitivas
 
-## Contacto
+##  Objetivo
+Conseguir mi primer rol como **Pentesting Jr / Cybersecurity Analyst** y seguir construyendo experiencia práctica.
+
+##  Contacto
 - sehuanesdaniel7777@gmail.com
 - danielruiz1014@hotmail.com
-
-
