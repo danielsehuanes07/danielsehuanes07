@@ -11,5 +11,8 @@ En construcción de portafolio práctico enfocado en **Pentesting** y laboratori
 - Enumeración web y escalación de privilegios en Linux
 - Scripts simples para automatizar tareas repetitivas
 
-##  Contacto
-- Email: danielruiz1014@hotmail.com
+## Contacto
+- sehuanesdaniel7777@gmail.com
+- danielruiz1014@hotmail.com
+
+
